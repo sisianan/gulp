@@ -1,0 +1,26 @@
+[
+    {
+        "back":"./img/小星星背景.jpg",
+        "head":"./img/小星星头像.jpeg",
+        "audio":"./mp3/小星星.mp3",
+        "name":"小星星",
+        "singer":"莫扎特",
+        "title":"妈妈，我想对你说~"
+      },
+      {
+        "back":"./img/狮子王背景.jpg",
+        "head":"./img/狮子王头像.jpg",
+        "audio":"./mp3/狮子王.mp3",
+        "name":"狮子王",
+        "singer":"奥·科拉迪",
+        "title":"SIMBA THE KING LION"
+      },
+      {
+        "back":"../img/卡农背景.jpg",
+        "head":"../img/卡农头像.jpg",
+        "audio":"../mp3/卡农.mp3",
+        "name":"卡农",
+        "singer":"Pachelbel",
+        "title":"规律"
+      }
+]
